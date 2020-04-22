@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/koronitza/static/css/main.d723e090.chunk.css",
+    "main.js": "/koronitza/static/js/main.2915d2c0.chunk.js",
+    "main.js.map": "/koronitza/static/js/main.2915d2c0.chunk.js.map",
+    "runtime-main.js": "/koronitza/static/js/runtime-main.3f4ff930.js",
+    "runtime-main.js.map": "/koronitza/static/js/runtime-main.3f4ff930.js.map",
+    "static/js/2.72070690.chunk.js": "/koronitza/static/js/2.72070690.chunk.js",
+    "static/js/2.72070690.chunk.js.map": "/koronitza/static/js/2.72070690.chunk.js.map",
+    "index.html": "/koronitza/index.html",
+    "precache-manifest.12378e5b9b7b5d08737bb918cffb8a17.js": "/koronitza/precache-manifest.12378e5b9b7b5d08737bb918cffb8a17.js",
+    "service-worker.js": "/koronitza/service-worker.js",
+    "static/css/main.d723e090.chunk.css.map": "/koronitza/static/css/main.d723e090.chunk.css.map",
+    "static/js/2.72070690.chunk.js.LICENSE.txt": "/koronitza/static/js/2.72070690.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f4ff930.js",
+    "static/js/2.72070690.chunk.js",
+    "static/css/main.d723e090.chunk.css",
+    "static/js/main.2915d2c0.chunk.js"
+  ]
+}
